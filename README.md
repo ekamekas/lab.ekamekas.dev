@@ -12,10 +12,10 @@ lab.ekamekas.dev/
 │   │   ├── README.md
 │   │   ├── LICENSE
 │   │   ├── _design/                   <-- Single source of truth
-│   │   │   ├── product_brief.md       <-- Summary of scope, goal, and vision of a product
+│   │   │   ├── product.md       <-- Summary of scope, goal, and vision of a product
 │   │   │   ├── api.yaml               <-- OpenAPI specification
-│   │   │   └── erd.puml               <-- ERD diagram
 │   │   │   └── diagrams/
+    │   │   │  └── erd.puml               <-- ERD diagram
     │   │      └── c4-context.puml     <-- C4 - System Context diagram
     │   │      └── c4-container.puml   <-- C4 - Container diagram
     │   │      └── c4-component.puml   <-- C4 - Component diagram
